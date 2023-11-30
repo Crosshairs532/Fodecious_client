@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Chicken Caesar Wrap",
+        "numberOfLikes": 110,
+        "userReviews": [
+            {
+                "username": "user7",
+                "rating": 4,
+                "comment": "Satisfying and flavorful."
+            },
+            {
+                "username": "user8",
+                "rating": 5,
+                "comment": "Best wrap in town!"
+            }
+        ]
+    },
+    {
+        "title": "Caprese Salad",
+        "numberOfLikes": 92,
+        "userReviews": [
+            {
+                "username": "user9",
+                "rating": 4,
+                "comment": "Light and delicious."
+            },
+            {
+                "username": "user10",
+                "rating": 5,
+                "comment": "Perfect balance of flavors."
+            }
+        ]
+    },
+    {
+        "title": "Quinoa Bowl",
+        "numberOfLikes": 78,
+        "userReviews": [
+            {
+                "username": "user11",
+                "rating": 5,
+                "comment": "Healthy and satisfying."
+            },
+            {
+                "username": "user12",
+                "rating": 4,
+                "comment": "Love the tahini dressing."
+            }
+        ]
+    },
+    {
+        "title": "Grilled Steak",
+        "numberOfLikes": 135,
+        "userReviews": [
+            {
+                "username": "user13",
+                "rating": 5,
+                "comment": "Juicy and flavorful."
+            },
+            {
+                "username": "user14",
+                "rating": 4,
+                "comment": "Perfectly cooked steak."
+            }
+        ]
+    },
+    {
+        "title": "Pasta Primavera",
+        "numberOfLikes": 122,
+        "userReviews": [
+            {
+                "username": "user15",
+                "rating": 4,
+                "comment": "Fresh and tasty."
+            },
+            {
+                "username": "user16",
+                "rating": 5,
+                "comment": "A medley of delicious veggies."
+            }
+        ]
+    },
+    {
+        "title": "Salmon Teriyaki",
+        "numberOfLikes": 110,
+        "userReviews": [
+            {
+                "username": "user17",
+                "rating": 5,
+                "comment": "Delicious teriyaki flavor."
+            },
+            {
+                "username": "user18",
+                "rating": 4,
+                "comment": "Perfectly cooked salmon."
+            }
+        ]
+    }
+]

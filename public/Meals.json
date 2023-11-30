@@ -1,0 +1,165 @@
+[
+    {
+        "category": "Breakfast",
+        "title": "Classic Pancakes",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.7,
+        "price": "$5.99",
+        "detailsButton": "View Details",
+        "details": "Fluffy and delicious classic pancakes served with maple syrup and a side of fresh berries.",
+        "ingredients": [
+            "Flour",
+            "Eggs",
+            "Milk",
+            "Maple Syrup",
+            "Fresh Berries"
+        ],
+        "distributorName": "Pancake Delights",
+        "postTime": "2023-11-25T12:00:00Z",
+        "numberOfLikes": 120
+    },
+    {
+        "category": "Breakfast",
+        "title": "Vegetarian Omelette",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.5,
+        "price": "$7.99",
+        "detailsButton": "View Details",
+        "details": "A wholesome vegetarian omelette with mushrooms, tomatoes, spinach, and cheese, served with whole-grain toast.",
+        "ingredients": [
+            "Eggs",
+            "Mushrooms",
+            "Tomatoes",
+            "Spinach",
+            "Cheese",
+            "Whole-Grain Toast"
+        ],
+        "distributorName": "Veggie Delights",
+        "postTime": "2023-11-25T12:30:00Z",
+        "numberOfLikes": 98
+    },
+    {
+        "category": "Breakfast",
+        "title": "Fruit Parfait",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.3,
+        "price": "$4.99",
+        "detailsButton": "View Details",
+        "details": "A refreshing fruit parfait with layers of yogurt, granola, and a variety of fresh fruits.",
+        "ingredients": [
+            "Yogurt",
+            "Granola",
+            "Fresh Fruits"
+        ],
+        "distributorName": "Fresh Delights",
+        "postTime": "2023-11-25T13:00:00Z",
+        "numberOfLikes": 85
+    },
+    {
+        "category": "Lunch",
+        "title": "Chicken Caesar Wrap",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.6,
+        "price": "$9.99",
+        "detailsButton": "View Details",
+        "details": "A satisfying chicken Caesar wrap with grilled chicken, romaine lettuce, Caesar dressing, and Parmesan cheese.",
+        "ingredients": [
+            "Grilled Chicken",
+            "Romaine Lettuce",
+            "Caesar Dressing",
+            "Parmesan Cheese"
+        ],
+        "distributorName": "Chicken Haven",
+        "postTime": "2023-11-25T13:30:00Z",
+        "numberOfLikes": 112
+    },
+    {
+        "category": "Lunch",
+        "title": "Caprese Salad",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.4,
+        "price": "$8.99",
+        "detailsButton": "View Details",
+        "details": "A light and flavorful Caprese salad with fresh mozzarella, tomatoes, basil, and a balsamic glaze.",
+        "ingredients": [
+            "Fresh Mozzarella",
+            "Tomatoes",
+            "Basil",
+            "Balsamic Glaze"
+        ],
+        "distributorName": "Salad Bliss",
+        "postTime": "2023-11-25T14:00:00Z",
+        "numberOfLikes": 95
+    },
+    {
+        "category": "Lunch",
+        "title": "Quinoa Bowl",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.2,
+        "price": "$10.99",
+        "detailsButton": "View Details",
+        "details": "A nutritious quinoa bowl with roasted vegetables, chickpeas, and a tahini dressing.",
+        "ingredients": [
+            "Quinoa",
+            "Roasted Vegetables",
+            "Chickpeas",
+            "Tahini Dressing"
+        ],
+        "distributorName": "Healthy Bowls",
+        "postTime": "2023-11-25T14:30:00Z",
+        "numberOfLikes": 78
+    },
+    {
+        "category": "Dinner",
+        "title": "Grilled Steak",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.8,
+        "price": "$16.99",
+        "detailsButton": "View Details",
+        "details": "Juicy and flavorful grilled steak served with garlic mashed potatoes and steamed asparagus.",
+        "ingredients": [
+            "Grilled Steak",
+            "Potatoes",
+            "Asparagus"
+        ],
+        "distributorName": "Steak House",
+        "postTime": "2023-11-25T15:00:00Z",
+        "numberOfLikes": 135
+    },
+    {
+        "category": "Dinner",
+        "title": "Pasta Primavera",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.9,
+        "price": "$12.99",
+        "detailsButton": "View Details",
+        "details": "Pasta primavera with a medley of fresh vegetables in a light olive oil and garlic sauce.",
+        "ingredients": [
+            "Pasta",
+            "Fresh Vegetables",
+            "Olive Oil",
+            "Garlic"
+        ],
+        "distributorName": "Italian Delights",
+        "postTime": "2023-11-25T15:30:00Z",
+        "numberOfLikes": 122
+    },
+    {
+        "category": "Dinner",
+        "title": "Salmon Teriyaki",
+        "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=sph",
+        "rating": 4.7,
+        "price": "$14.99",
+        "detailsButton": "View Details",
+        "details": "Delicious teriyaki-glazed salmon fillet served with jasmine rice and stir-fried vegetables.",
+        "ingredients": [
+            "Salmon Fillet",
+            "Teriyaki Glaze",
+            "Jasmine Rice",
+            "Stir-Fried Vegetables"
+        ],
+        "distributorName": "Seafood Delights",
+        "postTime": "2023-11-25T16:00:00Z",
+        "numberOfLikes": 110
+    }
+]
