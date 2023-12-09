@@ -10,7 +10,8 @@
 
 # Tools I have used 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react, express,firebase,materialui,mongodb,netlify, tailwind,vercel, nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,css,express,firebase,materialui,mongodb,netlify,tailwind,vercel,nodejs)](https://skillicons.dev)
+
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white)
 
 # LIVE LINK
